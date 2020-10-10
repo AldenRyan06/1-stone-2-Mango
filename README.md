@@ -1,1 +1,2 @@
-# 1-stone-2-Mango
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
